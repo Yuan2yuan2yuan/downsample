@@ -1,0 +1,45 @@
+#slow5_version	0.2.0
+#num_read_groups	1
+@asic_id	414340674
+@asic_id_eeprom	7298372
+@asic_temp	28.306036
+@asic_version	IA02D
+@auto_update	0
+@auto_update_source	https://mirror.oxfordnanoportal.com/software/MinKNOW/
+@barcoding_enabled	0
+@bream_is_standard	0
+@configuration_version	4.1.15
+@device_id	X3
+@device_type	gridion
+@distribution_status	stable
+@distribution_version	20.10.6
+@exp_script_name	sequencing/sequencing_MIN106_DNA:FLO-MIN106:SQK-LSK109
+@exp_script_purpose	sequencing_run
+@exp_start_time	2020-12-21T22:22:17Z
+@experiment_duration_set	4320
+@experiment_type	genomic_dna
+@file_version	2.0
+@flow_cell_id	FAO47605
+@flow_cell_product_code	FLO-MIN106
+@guppy_version	4.2.3+f90bd04
+@heatsink_temp	34.128906
+@hostname	GXB01426
+@installation_type	nc
+@local_basecalling	0
+@local_firmware_file	1
+@operating_system	ubuntu 16.04
+@package	bream4
+@package_version	6.1.4
+@pore_type	not_set
+@protocol_group_id	20201221_1D_darts
+@protocol_run_id	0413299c-96bd-46b6-8bc3-c5fb18a2a29d
+@protocols_version	6.1.4
+@run_id	4dea115c4918165fba900bdc773eeeae36464b98
+@sample_frequency	500
+@sample_id	20201221_1D_dartsPC3E_3_8
+@sequencing_kit	sqk-lsk109
+@usb_config	GridX5_fx3_1.1.3_ONT#MinION_fpga_1.1.1#bulk#Auto
+@version	4.1.2
+#char*	uint32_t	double	double	double	double	uint64_t	int16_t*	uint64_t	int32_t	uint8_t	double	enum{unknown,partial,mux_change,unblock_mux_change,data_service_unblock_mux_change,signal_positive,signal_negative}	char*
+#read_id	read_group	digitisation	offset	range	sampling_rate	len_raw_signal	raw_signal	start_time	read_number	start_mux	median_before	end_reason	channel_number
+0190a88d-a720-4eb9-a39c-2fe44980f4c3	0	8192	7	1435.535034	500.0	399	425,355,355,387,382,387,385,396,388,389,394,386,391,389,373,381,380,382,356,532,637,639,625,616,626,619,572,567,349,314,299,435,375,404,419,377,372,386,379,370,411,453,462,456,435,383,345,442,475,316,246,316,424,434,438,423,398,413,402,463,469,311,309,307,401,440,446,445,360,363,359,357,422,436,461,434,366,357,450,421,278,278,419,367,294,284,286,369,535,525,440,346,356,355,423,387,422,384,451,461,328,278,277,390,391,410,400,348,433,450,367,296,289,306,315,304,403,374,475,424,338,341,309,276,273,305,417,420,334,467,357,378,375,384,372,437,438,389,385,457,450,456,478,437,368,396,403,516,421,478,422,345,340,339,337,412,385,382,411,346,440,366,367,330,294,295,258,267,275,271,278,335,435,394,334,268,282,275,280,332,440,398,469,426,374,385,385,367,342,295,244,453,424,338,301,251,424,440,397,394,393,449,391,520,448,306,530,507,430,425,406,415,409,357,419,450,422,429,442,449,390,363,388,414,403,337,332,337,342,332,330,327,331,338,338,336,344,539,516,428,372,384,425,469,449,385,338,294,305,294,351,435,375,363,491,382,390,311,286,449,434,482,357,303,298,286,429,318,310,313,256,489,385,298,346,443,468,380,312,307,321,328,294,262,246,244,502,525,522,434,438,437,446,330,328,361,426,388,344,471,433,286,262,264,269,386,452,368,368,366,273,258,255,266,458,301,285,278,383,414,423,310,275,261,434,458,321,452,453,305,312,515,514,370,333,270,308,301,267,275,422,374,369,373,360,310,290,394,395,344,329,371,400,347,338,338,357,355,330,337,338,344,329,329,315,311,316,311,360,353,281,283,558,452,450,449,356,359,376,428,373,362,371,367,395,451,454,430,378,481,382,382,380,430,369,351,287,288,502	29001004	119473	3	190.39003	5	79
